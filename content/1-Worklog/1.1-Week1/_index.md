@@ -22,4 +22,4 @@ pre: " <b> 1.1. </b> "
 
 *   **Regarding integration:** Fully attended the rules meeting, grasped the internship's professional conduct, got acquainted with the company environment, and gained an overview to prepare for building the workspace.
 *   **Regarding AWS account setup:** Proceeded with the steps to create an AWS Free Tier 2025 account and researched to get familiar with the AWS Console/CLI interface.
-*   **Current progress & Arising issues:** The account creation process on the Console is currently waiting for AWS to verify the Visa cardholder's identity. Additionally, it requires waiting for the database system to synchronize (expected to take about 24 hours) for the account to officially receive the credit support. Will continue to monitor and complete the registration next week.
+*   **Current progress & Arising issues:** The account creation process on the Console is currently waiting for AWS to verify the Visa cardholder's identity. Additionally, it requires waiting for the database system to synchronize for the account to officially receive the credit support. Will continue to monitor and complete the registration next week.

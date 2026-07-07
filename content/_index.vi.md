@@ -7,11 +7,11 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Đình Khôi
+&emsp; **Họ và tên:** Trần Bình Hòa
 
-&emsp; **Số điện thoại:** 0967999015
+&emsp; **Số điện thoại:** 0326829012
 
-&emsp; **Email:** khoinguyen0014@gmail.com
+&emsp; **Email:** tranbinhhoa999@gmail.com
 
 &emsp; **Trường:** Đại học Công nghệ TP.HCM (Hutech)
 

@@ -8,11 +8,11 @@ chapter: false
 # Internship Report
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Dinh Khoi
+&emsp; **Full Name:** Tran Binh Hoa
 
-&emsp; **Phone Number:** 0967999015 
+&emsp; **Phone Number:** 0326829012
 
-&emsp; **Email:** khoinguyen0014@gmail.com
+&emsp; **Email:** tranbinhhoa999@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology (HUTECH)
 
